@@ -21,3 +21,13 @@
 <h3>Sobel</h3>
 <p>Referensi : http://tunasbangsa.ac.id/ejurnal/index.php/jsakti/article/view/448</p>
 <p>Sobel merupakan sebuah metode yang mengimplementasikan gaussian blur pada proses pengenalan citra. Sobel dapat mendeteksi citra berdasarkan sumbu X dan Y, sehingga akan diketahui hasil pemrosesan citra dari dua buah sumbu. Salah satu kelebihan dari metode Sobel yakni adalah jika pada suatu citra terdapat jumlah noise banyak, maka dapat berkurang ketika menggunakan metode ini. Manfaat penggunaan Sobel pada pengenalan plat nomor kendaraan yaitu mampu memisahkan setiap karakter dan mempertajam hasil analisa citra.</p>
+
+<h1>Topik 2 : Interaksi Manusia dan Komputer (Human Computer Interaction)</h1>
+<h3>Persoalan Praktis : Pengemudi Kendaraan Roda Dua dan Empat Mengalami Kesulitan dalam Menemukan Tambal Ban di Situasi Darurat</h3>
+
+<h2>Research Question</h2>
+<li>Bagaimana tindakan dari pengemudi kendaraan roda dua dan empat ketika mengalami kesulitan dalam menemukan tambal ban terdekat ?</li>
+<li>Apakah pengemudi kendaraan roda dua dan empat belum mengambil tindakan waspada sebelum beraktivitas menggunakan kendaraannya ?</li>
+<li>Apakah terdapat sebuah korelasi antara jarak dan jumlah tempat tambal ban dengan kesulitan menemukan tambal ban dalam sitausi darurat ?</li>
+<li>Bagaimana kondisi kendaraan roda dua dan empat ketika mengalami permasalahan dan apakah dapat menimbulkan efek samping tertentu apabila tetap dikendarai ?</li>
+<li>Apakah sudah ada tindakan preventif untuk membantu menanggulangi permasalahan pengemudi kendaraan roda dua dan empat kesulitan mencari tambal ban dalam situasi darurat ?</li>
