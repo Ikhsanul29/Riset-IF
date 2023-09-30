@@ -37,5 +37,5 @@
 <h3>Referensi : https://journal.unimma.ac.id/index.php/komtika/article/view/2111</h3>
 <p>Haversine merupakan salah satu metode perhitungan jarak antara dua titik geografis berdasarkan jarak sebenarnya. Perhitungan jarak digunakan menggunakan besaran koordinat serta lintang. Metode haversine sudah banyak digunakan dalam pengembangan aplikasi dengan konsep penentuan jarak rute dan arah, sehingga dapat diketahui rute perjalanan yang dapat diambil serta menentukan berapa estimasi jarak perjalanan tersebut.</p>
 <h3>Djikstra</h3>
-<h3>http://ejournal.stmik-time.ac.id/index.php/jurnalTIMES/article/view/633</h3>
+<h3>Referensi: http://ejournal.stmik-time.ac.id/index.php/jurnalTIMES/article/view/633</h3>
 <p>Djisktra merupakan sebuah algoritma untuk menemukan jarak terpendek antara suatu lokasi menuju titik tertentu. Algoritma ini sudah banyak digunakan dalam aplikasi dengan konsep navigasi. Mekanisme kerja dari algoritma ini yaitu antara node pertama dengan node selanjutnya, setiap node akan diberikan beban, kemudian akan dilakukan pencarian antar setiap node sehingga akan diperoleh jarak terdekat.</p>
