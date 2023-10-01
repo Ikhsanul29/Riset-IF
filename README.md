@@ -39,3 +39,17 @@
 <h3>Djikstra</h3>
 <h3>Referensi: http://ejournal.stmik-time.ac.id/index.php/jurnalTIMES/article/view/633</h3>
 <p>Djisktra merupakan sebuah algoritma untuk menemukan jarak terpendek antara suatu lokasi menuju titik tertentu. Algoritma ini sudah banyak digunakan dalam aplikasi dengan konsep navigasi. Mekanisme kerja dari algoritma ini yaitu antara node pertama dengan node selanjutnya, setiap node akan diberikan beban, kemudian akan dilakukan pencarian antar setiap node sehingga akan diperoleh jarak terdekat.</p>
+
+<h1>Topik 3 : Videogame</h1>
+<h3>Persoalan Praktis : Rendahnya Minat Siswa untuk Belajar Memahami Mata Pelajaran Matematika</h3>
+
+<h2>Research Question</h2>
+<li>Hal apa yang mendasari rendahnya minat siswa untuk belajar matematika ?</li>
+<li>Bagaimana keadaan pendidikan siswa apabila tingkat minat belajar matematika cukup rendah ?</li>
+<li>Apakah terdapat sebuah korelasi antara rendahnya minat belajar matematika siswa dengan rendahnya minat belajar ?</li>
+<li>Apakah sudah ada tindakan preventif untuk membantu menanggulangi permasalahan rendahnya minat belajar siswa untuk belajar matematika ?</li>
+
+<h2>Teori</h2>
+<h3>Fisher Yates</h3>
+<h3>Referensi : https://scholar.archive.org/work/6x66iukewrggxmn32zztwkahrq/access/wayback/http://klik.ulm.ac.id/index.php/klik/article/download/353/pdf</h3>
+<p>Fisher Yates merupakan sebuah algoritma untuk mengacak sebuah elemen, sehingga pilihan konten memiliki berbagai macam variasi. Dalam konteks permainan, algoritma ini banyak diaplikasikan ke dalam suatu pilihan, dimana apabila ada sebuah momen untuk kembali mengulangi keadaan maka akan diberikan konten baru secara acak. Dapat dicontohkan seperti pembagian soal dan jawaban dalam sistem ujian.</p>
