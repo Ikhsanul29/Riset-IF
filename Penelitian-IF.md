@@ -27,7 +27,7 @@
 <h1>Metrik Pengujian</h1>
 
 <h1>Gambar Pendukung</h1>
-![image](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/67990134-528e-4c01-8cfe-846d44ef794a)
+![1-Figure1-1](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/8b2a1663-95e0-4ebd-a39f-d46128c8c5b9)
 
 <h1>PDF</h1>
 
