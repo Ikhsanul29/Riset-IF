@@ -23,11 +23,19 @@
 <li>https://www.kaggle.com/datasets/imamdigmi/indonesian-plate-number</li>
 
 <h1>Coding</h1>
+<p>Mohon maaf atas ketidakmampuan saya dalam merangkai coding untuk menerapkan algoritma CNN pada penelitian ini untuk sementara waktu, namun terdapat satu referensi terkait bagaimana CNN dapat diaplikasikan untuk membantu mengatasi permasalahan ini.</p>
+<src>https://www.kaggle.com/code/sarthakvajpayee/license-plate-recognition-using-cnn</src>
 
 <h1>Metrik Pengujian</h1>
+<h3>Confusion Matrix</h3>
+<p>Metriks pengujian ini mampu menguji tingkat pengenalan dan klasifikasi plat nomor kendaraan berdasarkan empat kondisi yaitu True Positive (TP), True Negative (TN), False Positive (FP), dan False Negative (FN).</p>
+Sumber: https://repository.telkomuniversity.ac.id/pustaka/files/167697/jurnal_eproc/deteksi-jenis-kendaraan-berdasarkan-nomor-plat-menggunakan-metode-vertical-edge-detection-dan-connected-component-labelling.pdf
 
 <h1>Gambar Pendukung</h1>
-![1-Figure1-1](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/8b2a1663-95e0-4ebd-a39f-d46128c8c5b9)
+
+![1-Figure1-1](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/8e813b28-2acd-41df-8da9-193599dc0730)
+![image](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/b19bbc55-fa42-4fc2-a4df-b5822fb50e10)
+![image](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/4af46725-177e-4fef-be08-06344cb744ad)
 
 <h1>PDF</h1>
 
@@ -35,3 +43,4 @@
 <li>https://www.youtube.com/watch?v=-pUAV293O-4&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
 <li>https://www.youtube.com/watch?v=PQEpSSqY9nM&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
 <li>https://www.youtube.com/watch?v=rBsF78cVgOs&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
+<li>https://www.youtube.com/watch?v=GVetkPFUeGo</li>
