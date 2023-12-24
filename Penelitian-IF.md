@@ -8,7 +8,7 @@
 
 <h1>Metode</h1>
 <li>CNN: https://ejurnal.ulbi.ac.id/index.php/informatika/article/view/658/491</li>
-<li>OCR: </li>
+<li>OCR: https://iopscience.iop.org/article/10.1088/1757-899X/1115/1/012023/meta</li>
 
 <h1>Referensi Judul</h1>
 <h3>Deteksi Objek Dan Pengenalan Karakter Plat Nomor Kendaraan Indonesia Menggunakan Metode Convolutional Neural Network (CNN) Berbasis Python</h3>
@@ -27,4 +27,13 @@
 <h1>Metrik Pengujian</h1>
 
 <h1>Gambar Pendukung</h1>
-<src></src>
+![image](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/8d8f239b-58f9-44a9-bebe-e601210bd346)
+![image](https://github.com/Ikhsanul29/Riset-IF/assets/89885945/877ec09f-b131-4e8c-98e8-caa52dda7e2a)
+
+
+<h1>PDF</h1>
+
+<h1>Video</h1>
+<li>https://www.youtube.com/watch?v=-pUAV293O-4&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
+<li>https://www.youtube.com/watch?v=PQEpSSqY9nM&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
+<li>https://www.youtube.com/watch?v=rBsF78cVgOs&pp=ygUjdmVoaWNsZSBwbGF0ZSByZWNvZ25pdGlvbiB1c2luZyBjbm4%3D</li>
